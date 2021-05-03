@@ -1,2 +1,2 @@
-# jconcurrency
+# jvm-pasta
 Sandboxing Java Threads
